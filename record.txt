@@ -1,0 +1,17 @@
+Panadol	5	25
+Betneso	3	240
+Betneso	2	160
+Panadol	2	10
+Betneso	2	160
+Panadol	2	10
+Disprin	2	4
+Betneso	2	160
+Panadol	2	10
+Panadol	2	10
+Relcip	1	100
+Panadol	2	10
+Zapar	2	24
+Panadol	4	8
+Betneso	5	400
+Panadol	20	40
+Betneso	6	480
